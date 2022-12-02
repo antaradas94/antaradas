@@ -3,7 +3,8 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 692px;
+  min-height: 500px;
+  max-height: 500px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
